@@ -1,0 +1,9 @@
+Howdy every one, just a quick disclaimer: 
+
+The majority of this project is not my own, the orginal frameworks involved are the metasploit framework, and the fasttrack framework. Both of which are amazing tools, and as such deserve credit. metsaploit can be found at http://www.metasploit.com and fasttrack at http://www.secmaniac.com
+
+What the file in this directory lives to do, is once more for the time being give the abilty to allow the metasploit autopwn_db function to be accsesable to the fasttrack frame work. as of msf V4.0.2, on my own machine at least, the autopwn function under fasttrack 4.0.1 would kick up errors, due basicly to the fault of fasttrack now not telling the msf connsole to connect to a db.
+
+More to come, for all who wish to see.
+
+--<3 2uro and his two rows teeth
